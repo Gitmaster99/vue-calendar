@@ -1,28 +1,43 @@
-# vue-calendar
+# Project Title
+ Vue JS Calendar
 
-## Project setup
-```
-npm install
-```
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## General info
+This project is a Vue js Calendar with Firebase integration. This project is just for some extra xercising within Vue JS and connecting it with Firebase.
+	
+## Technologies
+Project is created with:
+* Node JS version: 12.18.3
+* @vue/cli version: 4.5.6
+* Vue JS version: 2.6.10
+* Vuetify version: 2.2.11
+* Core JS version: 3.6.5
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Running Locally
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Clone this repo
+2. ``` 
+    cd vue-calendar
+   ```
+3. ``` 
+    npm i
+    ```
+2. ``` 
+    npm run serve
+   ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tech Stack
 
-## Calendar App
+* Vue.js
+* Vue CLI
+* Vuetify
+
+## Screenshot
 
 ![picture](calendar-app.png)
+
+## File Structure
